@@ -18,4 +18,3 @@
 
 *Twonky*: The original story by Henry Kuttner and C. L. Moore was published under the pseudonym of Lewis Padgett and filmed in 1953. In it, a device from the future arrives in the past. Its owners cannot cope with it (even though one is a professor), so they get zapped. Even more apropos is their story “Mimsy Were the Borogoves,” in which toys from an alien dimension arrive on Earth. Adults cannot cope with them, but the children can—and eventually, they learn enough to open an interdimensional door and go elsewhere, having transcended humanity. So far, nobody has teleported as a result of playing video games, but we can hope.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

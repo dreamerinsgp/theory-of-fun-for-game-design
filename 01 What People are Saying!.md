@@ -37,4 +37,3 @@
 |  | “Raph Koster asks the important question about games: why are they fun, and what does that say about games and about us? Koster takes our love of games at face value—we play them because they are fun, we hate them when they are boring—and he assumes the art of game design is to get more of the former and less of the latter.” |  |
 |  | -- Clay Interactive Telecommunications Program, NYU Shirky | |
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

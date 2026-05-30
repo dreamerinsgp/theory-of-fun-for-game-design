@@ -22,4 +22,3 @@ The limitations of rules: This is a game-specific way of explaining Gödel’s T
 
 *RBI*: “Runs batted in” in baseball. This statistic is tracked per player and is incremented by one each time a run is scored as a result of their turn at bat, no matter who actually scores the run.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

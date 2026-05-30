@@ -12,4 +12,3 @@ My kids were leading me, without my quite knowing it, toward a theory of fun. An
 
 ![image with no caption](images/00001.jpg)
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

@@ -38,4 +38,3 @@
 
 *Girls breaking out of traditional gender roles*: Reuters reported in September 2004 on a study performed at Penn State that showed that the games played by kids at age 10 had a significant correlation with their academic performance years later. Girls who played sports at age 10 became more interested in math at age 12 than girls who didn’t do sports. Girls who spent time on “girly” activities such as knitting, reading, dancing, and playing with dolls tended to perform better later in subjects such as English.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

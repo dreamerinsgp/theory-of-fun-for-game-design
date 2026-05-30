@@ -16,4 +16,3 @@
 
 *Red Queen’s Race*: In Lewis Carroll’s classic book *Through the Looking Glass*, Alice runs alongside the Red Queen in a landscape that is moving very quickly. So quickly, in fact, that they have to run to stand still. This situation has become known as the Red Queen’s Race.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

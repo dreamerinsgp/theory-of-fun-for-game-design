@@ -130,4 +130,3 @@
 
 *3-D Tetris*: Many variants were created, from Pajitnov’s own *Welltris*, which was really four separate games of Tetris played on a cross-shaped field, to true 3-D variants that proved to be extraordinarily difficult to play and never garnered much acceptance.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

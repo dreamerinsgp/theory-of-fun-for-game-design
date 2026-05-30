@@ -28,4 +28,3 @@ For such a distilled volume of wisdom…I guess I can live with the title.
 
 Will Wright is the Chief Designer for Maxis, the company behind SimCity. He co-founded Maxis with Jeff Braun in 1987. In 1999 he was included in *Entertainment Weekly’s* “It List” of “the 100 most creative people in entertainment” as well as *Time Digital’s* “Digital 50,” a listing of “the most important people shaping technology today.”
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

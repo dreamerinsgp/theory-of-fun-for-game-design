@@ -18,4 +18,3 @@
 
 *Games as vertices*: Many games that require you to place one piece adjacent to another can be expressed as problems in graph theory, a field of mathematics that studies points and links between them. Each node is called a *vertex*, and each link is called an *edge*. Analyzing games in this highly abstract way can reveal many fundamental characteristics about how to play them well.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

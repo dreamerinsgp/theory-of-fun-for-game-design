@@ -14,4 +14,3 @@
 
 *Glimmers of hope*: The classic example of a game that provides a subtle moral lesson is *M.U.L.E*., designed by Dani Bunten Berry. In this game of colonization, players compete on a distant world to be the richest member of the colony via participation in multiple industries and selling goods to one another. However, the game also offers an additional victory condition. The overall success of the colony matters. You could win as an individual and still perish with the colony as a whole. The lesson is a remarkably subtle one on the ecologies of economic markets and the importance of both individuals and society.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

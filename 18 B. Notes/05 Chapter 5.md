@@ -39,4 +39,3 @@
 
 *Flow*: A term coined by Mihaly Csikszentmihalyi to describe the frame of mind characterized by intense attention and maximum performance on a task. The sensation of flow appears to be linked to increased release of dopamine, which is a neurotransmitter that apparently increases attention ability in the frontal cortex. Evidence seems to be mounting that dopamine is not, in itself, the chemical that provides positive feedback. For an introduction to the concept, try *Flow: The Psychology of Optimal Experience*, published in 1991 by Perennial.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

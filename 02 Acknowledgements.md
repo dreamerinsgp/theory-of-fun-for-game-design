@@ -12,4 +12,3 @@ Above all, to Kristen, who helped scan the images, gave me the space in which to
 
 Finally, thank you to all those who in my life have allowed me to pursue this crazy career. And to my family, for fostering the sense of fun from an early age and buying all the darn games and computers for me.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

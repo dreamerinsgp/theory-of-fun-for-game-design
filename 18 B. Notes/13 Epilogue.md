@@ -18,4 +18,3 @@
 
 *Kinetoscopes*: Invented in 1891 in Edison’s laboratory, this precursor to the film camera actually used 35mm film on reels, but it required viewers to look into a peephole to see.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

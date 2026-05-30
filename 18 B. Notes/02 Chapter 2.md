@@ -58,4 +58,3 @@
 
 *Mental practice*: This is called “mental imagery” and it is widely used in sports training. One study by Anne Isaac in 1992 showed that mental imagery helps an athlete improve in a skill. Other studies have found that autonomic nervous system responses are triggered by detailed mental imagery. It’s important to note that actual practice is still better than just imagining yourself doing something—the mental images have to be highly detailed and specific to provide a benefit. One of the most famous examples of mental imagery in this century is shown in the film *The Pianist*, where Wladyslaw Szpilman, played by Adrien Brody, “plays” piano while hovering his fingers above the keys so as to avoid detection by the Nazis.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

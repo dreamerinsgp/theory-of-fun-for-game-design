@@ -8,4 +8,3 @@
 
 *Shakespeare forgotten*: Interest in the works of Shakespeare has fluctuated over the centuries. Although he was regarded as a solid entertainer in the seventeenth century, and his works were collected in the eighteenth, it is not until the nineteenth century that we see him enthroned as the greatest writer who ever lived.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

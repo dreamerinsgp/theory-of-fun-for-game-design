@@ -34,4 +34,3 @@
 
 *Zeitgeist*: Driven in part by the rise of photography and also by discoveries in science, the central concerns here became the foundations of Modernism.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

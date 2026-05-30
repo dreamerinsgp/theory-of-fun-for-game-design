@@ -24,4 +24,3 @@
 
 *Lolita*: A classic novel by Vladimir Nabokov about an older man who becomes sexually obsessed with a young girl.
 
-[*OceanofPDF.com*](https://oceanofpdf.com)

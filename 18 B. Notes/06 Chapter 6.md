@@ -1,0 +1,41 @@
+# Chapter 6:
+
+# Chapter 6:
+
+*Bell curve distribution of IQ*: The standard IQ (intelligence quotient) tests are normalized around an average score of 100. The tests need to be renormalized every few years because we’re all apparently getting smarter. IQ is not accepted by everyone as a valid measure of all sorts of intelligence. There is a concept called “emotional intelligence” as well, which argues that how well we understand and cope with emotions is at least as important, if not more so.
+
+*Howard Gardner*: In his book *Frames of Mind*, Gardner defined seven types of intelligence, arguing that IQ tests only measured the first two. More recently, he has argued that there are two more types of intelligence: naturalist intelligence and existentialist intelligence.
+
+*Gender differences*: Two books that provide differing surveys of the field are *Sex on the Brain: The Biological Differences Between Men and Women* by Deborah Blum and *Brain Sex: The Real Difference Between Men and Women* by Anne Moir and David Jessel. For an amusing demonstration of how gender differences can manifest even in simple quizzes, check out the gender test at <http://community.sparknotes.com/gender/>. Based on accumulating the statistics of millions of test-takers, the test manages to provide a fairly accurate guess at the test-taker’s gender.
+
+*Spatial rotation*: A study in Norway found that differences in spatial rotation ability across genders manifest even in a society that has worked very hard to have gender equality. You can read the study at [www.findarticles.com/p/articles/mi\_m2294/is\_n11-12\_v38/ai\_21109782](http://www.findarticles.com/p/articles/mi_m2294/is_n11-12_v38/ai_21109782). There are no conclusions yet in the scientific community as to why exactly this is so, though of course various evolutionary reasons have been proposed.
+
+*Language proficiency in boys*: It is worth pointing out again that it is only on average that boys do worse in language proficiency; biological determinism alone does not doom a given individual. In some studies, boys have been shown to have a greater variable range in various skills than girls; for example, both the higher and lower ends of the IQ range tend to be populated with more males than females. There is also evidence, at least in older kids, that coeducational settings cause kids of both genders to shy away from the subjects that are supposed to be better suited to the opposite gender.
+
+*Permanent changes in rotation ability*: To quote Skip Rizzo of USC, from the transcript of his presentation at the Annenberg Center’s conference “Entertainment in the Interactive Age” in 2001: “On the paper and pencil test [of spatial rotation ability], men did much better than women. But when we replicated the test involving an integrated immersive interactive approach [e.g., with a video game], we found women performed as well as men.…the important finding was that we found that when we administered the paper and pencil test afterwards, that men and women’s scores were no longer significantly different.” This is not a shocking result; it has also been seen among deaf kids, who typically suffer from problems in spatial rotation as well. See [www.passig.com/pic/CognitiveIntervention(1).htm](http://www.passig.com/pic/CognitiveIntervention(1).htm).
+
+*Simon Baron-Cohen*: Baron-Cohen’s theory, elucidated in his book *The Essential Difference: Men, Women and the Extreme Male Brain*, is controversial, although it echoes earlier theories about Thinking and Feeling brains. Baron-Cohen is an autism researcher, so he didn’t come to this conclusion solely from gender research; boys suffer disproportionately from autism and Asperger’s, and his hypothesis is that these are malfunctions of the “extreme systematizing brain.” There are some tests online that you can take to arrive at your “systematizing quotient” and “empathizing quotient.” They can be found at [www.guardian.co.uk/life/news/page/0,12983,937443,00.html](http://www.guardian.co.uk/life/news/page/0,12983,937443,00.html).
+
+*Asperger’s syndrome*: Commonly called “high-functioning autism,” this syndrome is characterized by difficulty with social interactions and reading emotions.
+
+*Learning styles*: Sheri Graner Ray’s *Gender Inclusive Game Design* is an excellent book covering learning styles as they apply specifically to game design.
+
+*Kiersey Temperament Sorter*: A derivation of the Myers-Briggs personality type that uses a slightly different organizing metaphor based on the Hippocratic temperaments.
+
+*Myers-Briggs personality type*: Based on the theories of Carl Jung, this psychometric tool measures a subject’s preference for one side or another of 4 different dichotomies. The results can be read as classifying an individual into one of 16 personality types, but in psychology they are intended to indicate preference for given approaches to problem-solving.
+
+*Enneagrams*: Another personality classification system, enneagrams have nine different types into which people can fall. Each type has two subsidiary characteristics as well; the enneagram is diagrammed on a circle, so the “wings” or secondary types are therefore the neighbors on the circle. Enneagrams are not based on empirical study or psychological theory so much as they are based on the seven deadly sins and numerology.
+
+*Hormone effects on personality*: Many hormones have been implicated in personality differences, but there are no clear-cut answers as to why exactly this happens, nor can it be usefully used as a predictor. That said, as testosterone decreases in males over their lives, they tend toward reduced aggression. Men convicted of violent crimes show higher levels of testosterone than noncriminal men or men convicted of nonviolent crimes.
+
+*Book purchases*: The statistic on the ages of women book purchasers comes from the U.S. Census Bureau. For an impressive statistic regarding book purchases by women, consider that romance novels account for almost half of all paperback sales in America. Ninety-three percent of them sell to women.
+
+*Female preferences in games*: The most popular game genres among women are puzzle and parlor games. This preference is so marked that despite a low penetration of single-player games into the female market, women playing games online make up 51 percent of the online marketplace. The bulk of this large audience is playing puzzle games.
+
+*Hardcore players of different genders*: The population of women in online role-playing games varies from 15 percent to 50 percent, depending on the game. In comparison, the female market for traditional single-player games sold in traditional channels is more like 5 percent.
+
+*Aging game players*: Nick Yee was able to graph the differences in male and female behavior across ages after surveying a few thousand players of massively multiplayer online games. Younger males tended toward the more violent activities in the game, and older males tended to more closely match the behavior of females. The percentage of the respondents who were of a given gender showed markedly different distributions across age; there was a huge spike in younger males, whereas the number of females tended to remain relatively even across ages. Yee’s Daedalus Project can be found at [www.nickyee.com/daedalus/](http://www.nickyee.com/daedalus/). We should not equate this to the theory of “dedifferentiation,” which asserted that as we age, our cognitive strengths and weaknesses get “smoothed out.” In 2003, the APA issued a press release about dedifferentiation stating that longitudinal studies had disproven it.
+
+*Girls breaking out of traditional gender roles*: Reuters reported in September 2004 on a study performed at Penn State that showed that the games played by kids at age 10 had a significant correlation with their academic performance years later. Girls who played sports at age 10 became more interested in math at age 12 than girls who didn’t do sports. Girls who spent time on “girly” activities such as knitting, reading, dancing, and playing with dolls tended to perform better later in subjects such as English.
+
+[*OceanofPDF.com*](https://oceanofpdf.com)
